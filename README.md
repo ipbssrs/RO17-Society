@@ -1,30 +1,6 @@
 # RO17-Society
 SSRS RO17 - Society Research Group is a research group of IPB SSRS Associatio
-
-# SSRS RO15 - Coastal & Marine Research Group <a href="https://github.com/ipbssrs/RO15-Coastal/blob/91f0661c85df8a18eb5e2bed39593806b95f1607/ADMIN/RO15-coast.png" align="right" width="95" /><a href="https://ssrs.ipb.ac.id/"><img src="https://github.com/ipbssrs/RO1-Forest/blob/9de66f8d96760f1dd315df2b7af0062259c60ccc/ADMIN/Logo2_kecil.png" align="right" width="95" />
-<br /> 
-
-## Overview
-SSRS RO15 - Coastal &amp; Marine Research Group is a research group of IPB SSRS Association
-## Research Team
-* **Rahmat Asy'Ari** (RO Coordinator), _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
-* **Rani Andriani Tunggal** (RO Secretary), _Department of Biochemistry, Faculty of Mathematics and Natural Sciences, IPB University_
-* **Atika Mayangsari Dewi**, _Department of  Marine Sciences and Technology, Faculty of Fisheries and Marine Science, IPB University_
-* **Gansuar Sepri**, _Department of Aquatic Product Technology, Faculty of Fisheries and Marine Science, IPB University_
-* **Rafi Pranaja**, _Department of Aquatic Product Technology, Faculty of Fisheries and Marine Science, IPB University_
-* **Salma Safitri**, _Department of Biochemistry, Faculty of Mathematics and Natural Sciences, IPB University_
-* **Mirlan Sujana**, _Department of Mathematics, Faculty of Mathematics and Natural Sciences, IPB University_
-* **Farrell Rafli** Ramadhany, _Department of Chemistry, Faculty of Mathematics and Natural Sciences, IPB University_
-## Project
-* ![gem](https://img.shields.io/badge/PROJECT_1-Coastline_Change_in_Indonesia_Project-lightblue) ![gem](https://img.shields.io/badge/PUBLICATION-P1/P5-lightblue)
-* ![gem](https://img.shields.io/badge/PROJECT_2-Marine_Debris_Monitoring_Project-steelblue) ![gem](https://img.shields.io/badge/PUBLICATION-P2-steelblue)
-* ![gem](https://img.shields.io/badge/PROJECT_3-Sedimentation_and_Water_Quality_Project-blue) ![gem](https://img.shields.io/badge/PUBLICATION-P3/P4-blue)
-## Progress
-* ![gem](https://img.shields.io/badge/PROJECT_1-ON_PROGRESS-limegreen) ![](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600) [![Generic badge](https://progress-bar.dev/20?title=P1&color=grey)](https://shields.io/) [![Generic badge](https://progress-bar.dev/2?title=P5&color=grey)](https://shields.io/)
-* ![gem](https://img.shields.io/badge/PROJECT_2-PRELIMINARY_STUDY-limegreen) ![](https://geps.dev/progress/2?dangerColor=800000&warningColor=ff9900&successColor=006600) [![Generic badge](https://progress-bar.dev/2?title=P2&color=grey)](https://shields.io/)
-* ![gem](https://img.shields.io/badge/PROJECT_3-PRELIMINARY_STUDY-limegreen) ![](https://geps.dev/progress/2?dangerColor=800000&warningColor=ff9900&successColor=006600) [![Generic badge](https://progress-bar.dev/2?title=P3&color=grey)](https://shields.io/) [![Generic badge](https://progress-bar.dev/2?title=P4&color=grey)](https://shields.io/)
-## Publication
-
+ 
 ________________________________________________________________________________________________________________________________________________________
 
 
